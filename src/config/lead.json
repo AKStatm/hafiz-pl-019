@@ -1,7 +1,7 @@
 {
   "leadId": "PL-019",
   "businessName": "Hafiz dental clinic",
-  "nicheId": "all niches",
+  "nicheId": "dentist",
   "category": "Dental clinic",
   "phone": "03004374908",
   "whatsapp": "923004374908",
@@ -17,6 +17,6 @@
   "yearsExperience": 5,
   "workingHours": "Open today · Reply on WhatsApp fast",
   "taglineOverride": "",
-  "about": "Hafiz dental clinic provides trusted all niches services in Lahore.",
+  "about": "Hafiz dental clinic provides trusted dentist services in Lahore.",
   "urduSupport": true
 }
